@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator_v2</string>
+    <string name="calculator">Calculator</string>
+    <string name="edit">Edit</string>
+    <string name="But_AC">AC</string>
+
+</resources>
